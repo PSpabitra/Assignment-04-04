@@ -6,7 +6,8 @@ void main() {
   List<int> scores = [90, 85, 78];
 
   print("age : $age , ${age.runtimeType}");
-  print("age : $height , ${height.runtimeType}");
-  print("age : $isStudent , ${isStudent.runtimeType}");
-  print("age : $scores , ${scores.runtimeType}");
+  print("height : $height , ${height.runtimeType}");
+  print("name : $name , ${name.runtimeType}");
+  print("isStudent : $isStudent , ${isStudent.runtimeType}");
+  print("scores : $scores , ${scores.runtimeType}");
 }
